@@ -9,4 +9,4 @@ That sequence, can be repeated infinite amount of times.
 Nikola Filipovic 
 
 Notes:
-"The Function" == SkillBasedMatchmakeing()
+"The Function" == SkillBasedMatchmaking()
