@@ -67,7 +67,7 @@ namespace TestBackEnd
 
         }
 
-        static Tuple<List<Tuple<Club,Club>>, List<Club>> SkillBasedMatchMaking(List<Club> clubs, int skillGapLimiter)
+        static Tuple<List<Tuple<Club,Club>>, List<Club>> SkillBasedMatchMaking(List<Club> clubs, int skillGapLimiter)// "The Function"
         {
             List<Tuple<Club, Club>> pairedClubs = new List<Tuple<Club, Club>>();
             List<Club> nonPairedClubs = new List<Club>();
